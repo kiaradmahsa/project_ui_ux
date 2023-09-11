@@ -1,5 +1,5 @@
 This project is the clone of this project "https://github.com/adrianhajdin/project_modern_ui_ux_gpt3.git" 
-https://youtu.be/LMagNcngvcU?si=IFvaskTCKVQSFKuQ
+video tutorial link "https://youtu.be/LMagNcngvcU?si=IFvaskTCKVQSFKuQ"
 
 # Getting Started with Create React App
 
