@@ -2,7 +2,7 @@ This project is the clone of this project "https://github.com/adrianhajdin/proje
 
 video tutorial link "https://youtu.be/LMagNcngvcU?si=IFvaskTCKVQSFKuQ"
 
-##Demo
+## Demo
 https://app.netlify.com/sites/symphonious-mooncake-c3442e/deploys/651481fa998c23303ae7eda9
 
 # Getting Started with Create React App
