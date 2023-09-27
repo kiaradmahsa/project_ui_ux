@@ -3,7 +3,7 @@ This project is the clone of this project "https://github.com/adrianhajdin/proje
 video tutorial link "https://youtu.be/LMagNcngvcU?si=IFvaskTCKVQSFKuQ"
 
 ## Demo
-https://app.netlify.com/sites/symphonious-mooncake-c3442e/deploys/651481fa998c23303ae7eda9
+https://651481fa998c23303ae7eda9--symphonious-mooncake-c3442e.netlify.app/
 
 # Getting Started with Create React App
 
